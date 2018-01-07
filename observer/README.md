@@ -10,7 +10,7 @@
 * 2、当Weather主题内的数据改变，就会通知到已订阅的观察者
 * 3、已订阅的观察者在Weather主题改变后收到更新通知
 
-#### 实现步骤
+#### [实现步骤](./src/com/observer/weather)
 * 1、开始写主题接口WeatherSubject和观察者WeatherObserver接口
 
 * 2、主题的实现类Weather
@@ -19,7 +19,7 @@
 
 * 4、Weather主题中维护了所有向它订阅消息的观察者，当Weather有新消息时，通知所有的观察者。整个架构是一种松耦合，主题的实现不依赖与观察者，当增加新的观察者时，主题的代码不需要改变；观察者如何处理得到的数据与主题无关.
 
-#### 扩展一
+#### [扩展一](./src/com/observer/java)
 java.util包内包含了最基本的Observer接口和Observable类，这和我们的Subject接口和Observer接口很相似.
 
 * 1、被观察者需要继承Observable类
@@ -27,6 +27,6 @@ java.util包内包含了最基本的Observer接口和Observable类，这和我�
   * b、notifyObservers(); // 通知观察者更新
 * 2、观察者需要实现Observer接口
 
-#### 扩展二
+#### [扩展二](./src/com/observer/extend)
 
 实现java的Observer接口和Observable类
