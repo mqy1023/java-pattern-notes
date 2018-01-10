@@ -10,3 +10,9 @@
 store商店类具体实例化放到具体Pizza分店，具体不同Pizza店生产什么种类/卖什么种类Pizza都根据自己的需求来做.
 
 * 1、public abstract Pizza createPizza(String type); 
+
+#### 三、抽象工厂模式
+
+提供一个接口，用于创建相关的或依赖对象的家族，而不需要明确指定具体类.
+
+确保产品的种类可控性
