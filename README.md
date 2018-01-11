@@ -10,7 +10,7 @@ java设计模式
 
 #### 四、[单例模式](./singleton)
 
-
+#### 五、[命令模式](./command)
 
 ## 参考链接
 1、[java-design-patterns](https://github.com/iluwatar/java-design-patterns)
