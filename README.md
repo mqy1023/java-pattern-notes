@@ -12,5 +12,7 @@ java设计模式
 
 #### 五、[命令模式](./command)
 
+#### 六、[适配器模式](./adapter)
+
 ## 参考链接
 1、[java-design-patterns](https://github.com/iluwatar/java-design-patterns)
