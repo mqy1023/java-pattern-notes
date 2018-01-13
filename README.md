@@ -15,5 +15,8 @@ java设计模式
 
 #### 七、[外观模式](./facade)
 
+#### 八、[模板模式](./template)
+
+
 ## 参考链接
 1、[java-design-patterns](https://github.com/iluwatar/java-design-patterns)
