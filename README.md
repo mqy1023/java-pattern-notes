@@ -17,6 +17,8 @@ java设计模式
 
 #### 八、[模板模式](./template)
 
+#### 九、[迭代器模式](./iterator)
+
 
 ## 参考链接
 1、[java-design-patterns](https://github.com/iluwatar/java-design-patterns)
