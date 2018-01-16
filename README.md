@@ -19,6 +19,10 @@ java设计模式
 
 #### 九、[迭代器模式](./iterator)
 
+#### 十、[组合模式](./composite)
+
+#### 十一、[状态模式](./state)
+
 
 ## 参考链接
 1、[java-design-patterns](https://github.com/iluwatar/java-design-patterns)
